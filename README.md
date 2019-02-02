@@ -9,9 +9,9 @@
 
 The repositories in the tieto-pc belong to Tieto Corporation / Application Development / Public Cloud team.
 
-The repositories provide various demonstrations and templates for AWS and Azure infrastructure code.
+The repositories provide various demonstrations for AWS and Azure infrastructure code.
 
-Tieto / Application Services / Public Cloud also provides consultation for our projects how to quickly ramp-up public cloud projects using our demonstrations and templates as a starting point. You can contact us using our corporate email:
+Tieto / Application Services / Public Cloud also provides consultation for our projects how to quickly ramp-up public cloud projects using our demonstrations as a starting point. You can contact us using our corporate email:
 - Petri Ohtonen, Head of Public Cloud
 - Kari Marttila, Cloud Mentor
 
